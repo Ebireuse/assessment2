@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(94, 255, 0);
+    width: 500px;
+    margin-right: red;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+button {
+    padding: 5px 20px;
+    background-color: #41d44d;
+    color: #e246d8;
+    border-style: none;
+    border-radius: 6px;
+  }
+  h3 {
+      color:rgb(247, 0, 255)
+  }
+  p {
+    color:rgb(76, 0, 255)
+}
